@@ -1,4 +1,4 @@
 # cv
 
 #### Live Preview : 
-![https://yugasandeep.github.io/cv] 
+![my cv](https://yugasandeep.github.io/cv)
