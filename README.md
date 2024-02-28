@@ -1,3 +1,3 @@
 # cv
 
-#### Live Preview : https://yugasandeep.github.io/cv
+ [CV](https://yugasandeep.github.io/cv)
